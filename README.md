@@ -26,6 +26,7 @@ the core team.
   - [Implementing an RFC](#implementing-an-rfc)
   - [RFC Postponement](#rfc-postponement)
     - [Help this is all too informal!](#help-this-is-all-too-informal)
+  - [License](#license)
 
 
 ## When you need to follow this process
@@ -213,5 +214,21 @@ is "no", then the appropriate response is to close the RFC, not postpone it.)
 The process is intended to be as lightweight as reasonable for the present
 circumstances. As usual, we are trying to let the process be driven by
 consensus and community norms, not impose more structure than necessary.
+
+
+## License
+[License]: #license
+
+This repository is licensed as:
+
+* GNU General Public License (GPLv3), ([LICENSE](LICENSE) or https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+The following files have been copied and adapted from [rust-lang/rfcs](https://github.com/rust-lang/rfcs) and as such incorporate work covered by the MIT license ([LICENSE-MIT](LICENSE-MIT) or https://opensource.org/licenses/MIT):
+
+* [README.md](README.md)
+* [generate-book.py](generate-book.py)
+* [0000-template.md](0000-template.md) 
+* [deploy.yml](.github/workflows/deploy.yml)
+
 
 [RFC repository]: https://github.com/ferros-org/rfcs
