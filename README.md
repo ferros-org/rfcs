@@ -1,4 +1,4 @@
-# FerrOS RFCs - [RFC Book](https://ferros-org.github.io/rfcs/) - [RFC Repository]
+# FerrOS RFCs - [RFC Book](https://ferros-org.github.io/rfcs/introduction.html) - [RFC Repository]
 
 [FerrOS RFCs]: #ferros-rfcs
 
