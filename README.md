@@ -1,4 +1,4 @@
-# FerrOS RFCs - [RFC Book](https://ferros-org.github.io/rfcs/)
+# FerrOS RFCs - [RFC Book](https://ferros-org.github.io/rfcs/) - [RFC Repository]
 
 [FerrOS RFCs]: #ferros-rfcs
 
@@ -16,7 +16,7 @@ the core team.
 ## Table of Contents
 [Table of Contents]: #table-of-contents
 
-- [FerrOS RFCs - RFC Book](#ferros-rfcs---rfc-book)
+- [FerrOS RFCs - RFC Book - RFC Repository](#ferros-rfcs---rfc-book---rfc-repository)
   - [Table of Contents](#table-of-contents)
   - [When you need to follow this process](#when-you-need-to-follow-this-process)
   - [Before creating an RFC](#before-creating-an-rfc)
